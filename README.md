@@ -1,2 +1,7 @@
 # Flutter-Study
 플러터 공부를 위한 스터디 예제 저장소
+
+# Flutter toonflix
+## 강의 - [nomadcoders.co](https://nomadcoders.co)
+
+내용 - nomadcoders에서 수강중인 "Flutter webtoon app 만들기" 강의의 첫번째 UI CHALLENGE 목차에서 지갑 앱의 UI를 제작해보았다.
